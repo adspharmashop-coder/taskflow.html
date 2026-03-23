@@ -1,0 +1,18 @@
+{
+  "name": "TaskFlow - Mon Organisateur",
+  "short_name": "TaskFlow",
+  "description": "Gérez vos tâches, rendez-vous et influenceurs",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0F0D1F",
+  "theme_color": "#0F0D1F",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='100' fill='%230F0D1F'/><text x='256' y='340' text-anchor='middle' font-size='280' fill='%237B61FF'>✦</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
